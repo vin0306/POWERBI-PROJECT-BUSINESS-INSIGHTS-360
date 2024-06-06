@@ -34,6 +34,7 @@ High-Level KPIs: Present key performance indicators (KPIs) that are crucial for 
 Strategic Initiatives: Highlight progress on strategic initiatives and goals to ensure alignment with organizational objectives.
 Risk Assessment: Identify potential risks and opportunities based on data analysis to support proactive decision-making.
 Drill-Down Capability: Provide the ability to drill down into specific areas for more detailed analysis as needed by executives.
+
 Important considerations:
 
 Audience: Tailor each dashboard to the specific needs and preferences of its intended audience, whether it's finance professionals, sales teams, marketers, supply chain managers, or executives.
