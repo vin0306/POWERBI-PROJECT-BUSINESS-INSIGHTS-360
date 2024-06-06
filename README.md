@@ -37,7 +37,11 @@ Drill-Down Capability: Provide the ability to drill down into specific areas for
 Important considerations:
 
 Audience: Tailor each dashboard to the specific needs and preferences of its intended audience, whether it's finance professionals, sales teams, marketers, supply chain managers, or executives.
+
 Clarity and Simplicity: Ensure that the dashboards are easy to understand at a glance, with clear visualizations and minimal clutter.
+
 Data Accuracy: Validate the accuracy and reliability of data sources to maintain trust in the insights derived from the dashboards.
+
 Interactivity: Incorporate interactive elements such as filters, slicers, and drill-down options to enable users to explore the data and derive deeper insights.
+
 Accessibility: Design dashboards that are accessible across different devices and platforms to facilitate widespread use and collaboration.
